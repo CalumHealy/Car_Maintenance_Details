@@ -18,6 +18,7 @@
 - 235,684km
 - Oil filter and oil changed (4.3L oil)
 - Air filter checked but alright
+- Next service due at 250,000km (15,000km interval)
 
 ## Mileage
 20/10/2025, 18:58: 233,256km  
