@@ -12,6 +12,7 @@
 - Passat CC alloys
 - Roof racks
 - Android touch screen radio unit with AA and CarPlay
+- LED rear license plate lights and new rear license plate frame installed 22/11/2025
 
 ## Services
 ### 16/11/2025
@@ -25,6 +26,7 @@
 27/10/2025, 14:27: 234,144km  
 6/11/2025, 00:03: 234,866km  
 16/11/2025, 17:02: 235,684km  
+23/11/2025, 17:14: 236,351km
 
 ## Images
 ![10LK601](images/DSC_0031.jpg)
