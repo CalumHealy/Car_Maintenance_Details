@@ -33,6 +33,9 @@
 - Air filter checked but alright
 - Next service due at 250,000km (15,000km interval)
 
+## Fuel
+- 25/1/2026, 16:24: 40.98L @ 170.8c/L -> EUR69.99
+
 ## Mileage
 20/10/2025, 18:58: 233,256km  
 27/10/2025, 14:27: 234,144km  
