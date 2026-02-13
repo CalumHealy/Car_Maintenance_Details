@@ -1,5 +1,8 @@
 # Volkswagen Passat B6, 2010, 10LK601
 
+## Deadlines
+NCT Expiry: 16/2/2027
+
 ## Details
 - Engine: Highline Bluemotion 1.6 TDI 105BHP
 - Gear box: 5 speed manual
@@ -37,6 +40,7 @@
 - 25/1/2026, 16:24: 40.98L @ 170.8c/L -> EUR69.99
 - Missed one here
 - 2/2/2026, 20:47: 58.76L @ 172.9c/L -> EUR101.60
+- 13/2/2026, 04:03: 59.66L @ 172.8c/L -> EUR103.09
 
 ## Mileage
 - 20/10/2025, 18:58: 233,256km
@@ -50,8 +54,13 @@
 - 30/12/2025, 15:07: 239,154km
 - 19/1/2026, 14:59: 239,994km
 - 5/2/2026, 20:34: 241,468km
+- 10/2/2026, 18:23: 241,823km
 
 ![Mileage_Graph](images/Figure_1.png)
+
+## NCTs
+### 12/2/2026
+![NCT_12_02_2026](images/NCT_12_02_2026_Report.png)
 
 ## Images
 ![10LK601](images/DSC_0031.jpg)
