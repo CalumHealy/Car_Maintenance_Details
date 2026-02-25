@@ -28,8 +28,13 @@ Tax Expiry: July 2026
 
 ### 19/12/2025
 - 238,221km
-- From left low-beam bulb replaced
+- Front left low-beam bulb replaced
 - Bought in Motorway Auto Parts & Accessories for EUR7.50, 19/12/2025 10:53
+
+### 19/2/2026 (Roughly)
+- ?km
+- Front right dipped bulb replaced
+- Bought two in Macroom Motor Factors for EUR12
 
 ## Services
 ### 16/11/2025
