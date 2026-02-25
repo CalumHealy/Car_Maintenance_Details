@@ -2,6 +2,8 @@
 
 ## Deadlines
 NCT Expiry: 16/2/2027
+Insurance Expiry: 16/11/2026
+Tax Expiry: July 2026
 
 ## Details
 - Engine: Highline Bluemotion 1.6 TDI 105BHP
@@ -38,9 +40,10 @@ NCT Expiry: 16/2/2027
 
 ## Fuel
 - 25/1/2026, 16:24: 40.98L @ 170.8c/L -> EUR69.99
-- Missed one here
+- Missed one here, I think
 - 2/2/2026, 20:47: 58.76L @ 172.9c/L -> EUR101.60
 - 13/2/2026, 04:03: 59.66L @ 172.8c/L -> EUR103.09
+- 25/2/2026, 15:11: 63.25L @ 170.8c/L -> EUR108.03
 
 ## Mileage
 - 20/10/2025, 18:58: 233,256km
@@ -55,6 +58,7 @@ NCT Expiry: 16/2/2027
 - 19/1/2026, 14:59: 239,994km
 - 5/2/2026, 20:34: 241,468km
 - 10/2/2026, 18:23: 241,823km
+- 25/2/2026, 15:22: 243,042km
 
 ![Mileage_Graph](images/Figure_1.png)
 
