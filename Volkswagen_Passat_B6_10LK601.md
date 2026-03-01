@@ -1,9 +1,9 @@
 # Volkswagen Passat B6, 2010, 10LK601
 
 ## Deadlines
-NCT Expiry: 16/2/2027
-Insurance Expiry: 16/11/2026
-Tax Expiry: July 2026
+NCT Expiry: 16/2/2027  
+Insurance Expiry: 16/11/2026  
+Tax Expiry: July 2026  
 
 ## Details
 - Engine: Highline Bluemotion 1.6 TDI 105BHP
