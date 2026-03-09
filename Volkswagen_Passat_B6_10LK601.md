@@ -40,6 +40,9 @@ Tax Expiry: July 2026
 - Front right alloy reformed
 - Front right tyre replaced
 
+### 4/3/2026
+- Back left tyre replaced
+
 ## Services
 ### 16/11/2025
 - 235,684km
@@ -53,6 +56,7 @@ Tax Expiry: July 2026
 - 2/2/2026, 20:47: 58.76L @ 172.9c/L -> EUR101.60
 - 13/2/2026, 04:03: 59.66L @ 172.8c/L -> EUR103.09
 - 25/2/2026, 15:11: 63.25L @ 170.8c/L -> EUR108.03
+- 4/3/2026, 16:19: 45L @ 177.8c/L -> EUR80.01
 
 ## Mileage
 - 20/10/2025, 18:58: 233,256km
@@ -68,6 +72,7 @@ Tax Expiry: July 2026
 - 5/2/2026, 20:34: 241,468km
 - 10/2/2026, 18:23: 241,823km
 - 25/2/2026, 15:22: 243,042km
+- 4/3/2026, 17:01: 243,921km
 
 ![Mileage_Graph](images/Figure_1.png)
 
