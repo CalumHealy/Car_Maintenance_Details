@@ -71,6 +71,9 @@ Tax Expiry: July 2026
 
 ![Mileage_Graph](images/Figure_1.png)
 
+## Tyre Pressure Values
+![Tyre_Pressure_Values](images/Tyre_Pressure_Values.jpg)
+
 ## NCTs
 ### 12/2/2026
 ![NCT_12_02_2026](images/NCT_12_02_2026_Report.png)
