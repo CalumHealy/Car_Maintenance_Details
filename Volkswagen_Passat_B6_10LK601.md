@@ -43,6 +43,16 @@ Tax Expiry: July 2026
 ### 4/3/2026
 - Back left tyre replaced
 
+### 12/3/2026
+- New alloy put onto front left
+- New tyre put onto front left
+- Old front left tyre or new alloy tyre, not sure which, put onto back right wheel (the old one was worn unevenly, very bumpy along circumference)
+- On the way home a tyre pressure warning came up
+- Checked pressures at home: front left is 41PSI, all others are ~36PSI
+- Driving is much quieter now
+- Must keep an eye on tyre pressure
+- Must investigate wheel bearing
+
 ## Services
 ### 16/11/2025
 - 235,684km
@@ -57,6 +67,7 @@ Tax Expiry: July 2026
 - 13/2/2026, 04:03: 59.66L @ 172.8c/L -> EUR103.09
 - 25/2/2026, 15:11: 63.25L @ 170.8c/L -> EUR108.03
 - 4/3/2026, 16:19: 45L @ 177.8c/L -> EUR80.01
+- 12/3/2026, 16:59: 48.56L @ 205.9c/L -> EUR99.99
 
 ## Mileage
 - 20/10/2025, 18:58: 233,256km
@@ -73,6 +84,7 @@ Tax Expiry: July 2026
 - 10/2/2026, 18:23: 241,823km
 - 25/2/2026, 15:22: 243,042km
 - 4/3/2026, 17:01: 243,921km
+- 12/3/2026, 17:02: 244,598km
 
 ![Mileage_Graph](images/Figure_1.png)
 
