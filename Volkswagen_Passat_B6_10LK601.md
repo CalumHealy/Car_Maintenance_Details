@@ -53,6 +53,11 @@ Tax Expiry: July 2026
 - Must keep an eye on tyre pressure
 - Must investigate wheel bearing
 
+### 21/3/2026
+- I jacked up the car a few days ago (18/3/2026) and checked the wheels. All bearings seem good. 
+- Everything with the wheels seems to be sorted now. 
+- Yippee!
+
 ## Services
 ### 16/11/2025
 - 235,684km
@@ -68,6 +73,7 @@ Tax Expiry: July 2026
 - 25/2/2026, 15:11: 63.25L @ 170.8c/L -> EUR108.03
 - 4/3/2026, 16:19: 45L @ 177.8c/L -> EUR80.01
 - 12/3/2026, 16:59: 48.56L @ 205.9c/L -> EUR99.99
+- 17/3/2026, 04:18: 59.9L @ 209.9c/L -> EUR125.73
 
 ## Mileage
 - 20/10/2025, 18:58: 233,256km
@@ -85,6 +91,7 @@ Tax Expiry: July 2026
 - 25/2/2026, 15:22: 243,042km
 - 4/3/2026, 17:01: 243,921km
 - 12/3/2026, 17:02: 244,598km
+- 17/3/2026, 04:15; 245,267km
 
 ![Mileage_Graph](images/Figure_1.png)
 
