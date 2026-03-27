@@ -58,6 +58,16 @@ Tax Expiry: July 2026
 - Everything with the wheels seems to be sorted now. 
 - Yippee!
 
+### 24/3/2026 (Roughly)
+- Removed roof racks due to break from kayaking
+- Much quieter now, especially with the wheels fixed too 😊
+
+### 27/3/2026
+- Got AC refrigerant refilled so the AC works well now
+- Much needed fix for the upcoming summer :)
+- EUR175.93
+- Receipt images 1 & 2
+
 ## Services
 ### 16/11/2025
 - 235,684km
@@ -101,6 +111,13 @@ Tax Expiry: July 2026
 ## NCTs
 ### 12/2/2026
 ![NCT_12_02_2026](images/NCT_12_02_2026_Report.png)
+
+## Receipts
+### 1 - AC Refill 27/3/2026 1
+![AC_Refill_27_3_2026_1](images/PXL_20260327_191548781.jpg)
+
+### 2 - AC Refill 27/3/2026 2
+![AC_Refill_27_3_2026_2](images/Air_Con_Invoice.png)
 
 ## Images
 ![10LK601](images/DSC_0031.jpg)
